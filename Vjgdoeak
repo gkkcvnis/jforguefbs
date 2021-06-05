@@ -138,6 +138,25 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",124.Bangla Talkies
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 
+#EXTINF:0 tvg-language="" tvg-logo="" group-title="sixtmp",Asian Tv
+https://ott.bingebd.com/live/ngrp:asian_tv_all/sohel.m3u8
+
+#EXTINF:0 tvg-language="" tvg-logo="" group-title="sixtmp",Colors HD
+https://piratesiptv.shortcm.li/colorshd.m3u8
+
+#EXTINF:0 tvg-language="" tvg-logo="" group-title="sixtmp",Sony Sab HD
+https://piratesiptv.shortcm.li/sabhd.m3u8
+
+
+#EXTINF:0 tvg-language="" tvg-logo="" group-title="sixtmp",Zee Action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-language="" tvg-logo="" group-title="sixtmp",Travel XP Hindi
+https://piratesiptv.shortcm.li/travelxp.m3u8
+
+https://piratesiptv.shortcm.li/bd-vs-sl.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="* BDIX MX2",Al Dawah
 PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTDFWV0xvRjJkaFIyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
 
@@ -1306,3 +1325,200 @@ http://live4.tdm.com.mo/ch2/_definst_//ch2.live/chunklist_w55167431.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title=" slong ",Warner TV
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo=" " group-title="dcap", T Sports
+http://103.205.133.19/hls/tsports.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", ATN NEWS
+http://103.205.133.19/hls/atnnews.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", ATN BANGLA
+http://103.205.133.19/hls/atnbangla.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Bangla TV
+http://103.205.133.19/hls/banglatv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", BIJOY TV
+http://103.205.133.19/hls/bijoytv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Bangla Vision
+http://103.205.133.19/hls/banglavision.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", BOISHAKHI TV
+http://103.205.133.19/hls/boisakhi.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", BTV
+http://103.205.133.19/hls/btv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", BTV WORLD
+http://103.205.133.19/hls/btvworld.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", CHANNEL I
+http://103.205.133.19/hls/ichannel.m3u8
+#http://103.205.133.19/hls/ichannel.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", CHANNEL 24
+http://103.205.133.19/hls/channel24.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", DBC NEWS
+http://103.205.133.19/hls/dbcnews.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", DEEPTO TV
+http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Duronto TV
+http://pn.tvott.info:80/wade/wade/83777
+#http://103.205.133.19/hls/duronto.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", EKUSHEY TV
+http://103.205.133.19/hls/ekushey.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", EKATTOR TV
+http://103.205.133.19/hls/ekatoortv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Independent
+https://rhridoy136.shortcm.li/independenttv.m3u8
+#http://103.205.133.19/hls/independent.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", JAMUNA TV
+http://103.205.133.19/hls/jamunatv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", MY TV
+http://103.205.133.19/hls/mytv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", MOHONA TV
+http://103.205.133.19/hls/mohonatv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", NEWS 24
+http://103.205.133.19/hls/news24.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Nagorik TV
+http://103.205.133.19/hls/nagorik.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", NTV
+http://103.205.133.19/hls/ntv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", RTV
+http://103.205.133.19/hls/rtv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", SA TV
+http://103.205.133.19/hls/satv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Peace Tv
+http://103.205.133.19/hls/peacetv.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Shomoy TV
+http://103.205.133.19/hls/somoy.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Zee Bangla 
+http://103.205.133.19/hls/zeebanglahd.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Colors Bangla
+http://103.205.133.19/hls/colorsbangla.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Sony Aath
+http://103.205.133.19/hls/sony8.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Ruposhi Bangla
+http://103.205.133.19/hls/ruposhibangla.m3u8
+#http://103.205.133.19/hls/banglatime.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", GAAN BANGLA HD
+http://103.205.133.19/hls/gaanbangla.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Sangeet Bangla
+http://103.205.133.19/hls/sangeetbangla.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Dhoom Music
+http://103.205.133.19/hls/dhoommusic.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", 9XM
+http://103.205.133.19/hls/9xm.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", SONY
+http://103.205.133.19/hls/chs.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Zee TV
+http://103.205.133.19/hls/zeetvhd.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Colors HD
+http://103.205.133.19/hls/chc.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", &TV HD
+http://103.205.133.19/hls/andtv.m3u8
+#http://103.205.133.19/hls/sonysab.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", ZEE CINEMA
+http://103.205.133.19/hls/zeecinema.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", And Pictures HD
+http://103.205.133.19/hls/andpicture.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", WoW CINEMA
+http://103.205.133.19/hls/wowcinema.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", 9XM HD
+http://103.205.133.19/hls/9xm.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", B4U Movies
+http://103.205.133.19/hls/b4umovies.m3u8
+#http://103.205.133.19/hls/zeeaction.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Zee Salam
+http://103.205.133.19/hls/zeesalaam.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", SONY PIX
+http://103.205.133.19/hls/sonypix.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Sony Six HD
+http://103.205.133.19/hls/sonysix.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Sony Ten 1
+http://103.205.133.19/hls/ten1.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Sony Ten 2
+http://103.205.133.19/hls/ten2.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Sony Ten 3
+http://103.205.133.19/hls/ten3.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", Star Sports 2
+http://103.205.133.19/hls/chss2.m3u8
+#EXTINF: -1 tvg-logo=" " group-title=" dcap ", D Kids
+http://103.205.133.19/hls/discoverykids.m3u8
+
+
+
+#EXTINF:0 tvg-language=" " group-title=" dcap ",ATN Bangla
+http://103.205.133.21/hls/atnbangla.m3u8
+#EXTINF:0 tvg-language=" " group-title=" dcap ",ATN News
+http://103.205.133.21/hls/atnnews.m3u8
+#EXTINF:0 tvg-language=" " group-title=" dcap ",Banglavision
+http://103.205.133.21/hls/banglavision.m3u8
+#EXTINF:0 tvg-logo=" png" group-title=" dcap ",Bangla TV
+http://103.205.133.21/hls/banglatv.m3u8
+#EXTINF:0 tvg-language= tvg-logo=" " group-title=" dcap ",Boishakhi
+http://103.205.133.21/hls/boisakhi.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",BTV
+
+#EXTINF:-1 tvg-logo=" " group-title=" dcap ",BTV World
+http://103.205.133.21/hls/btvworld.m3u8
+#EXTINF:0 tvg-language=" " group-title=" dcap ",Channel I
+http://103.205.133.21/hls/ichannel.m3u8
+#EXTINF:0 tvg-language=" " group-title=" dcap ",Channel 9
+http://103.205.133.21/hls/ninechannel.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",CHANNEL 24
+http://103.205.133.21/hls/channel24.m3u8
+#EXTINF:0 tvg-language=" " group-title=" dcap ",DBC News*
+http://103.205.133.21/hls/dbcnews.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Deepto TV
+http://103.205.133.21/hls/deeptotv.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" dcap ",Desh TV
+http://103.205.133.21/hls/deshtv.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Ekattor
+
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Ekushey TV
+http://103.205.133.21/hls/ekushey.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Gaan Bangla HD
+http://103.205.133.21/hls/gaanbangla.m3u8
+#EXTINF:0 tvg-logo=" group-title=" dcap ",Independent
+
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Jamuna TV
+http://103.205.133.21/hls/jamunatv.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Mohona TV
+http://103.205.133.21/hls/mohonatv.m3u8
+#EXTINF:0 tvg-logo="  " group-title=" dcap ",My TV HD
+http://103.205.133.21/hls/mytv.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Nagorik TV
+http://103.205.133.21/hls/nagorik.m3u8
+#EXTINF:0 tvg-language=" group-title=" dcap ",News 24
+http://103.205.133.21/hls/news24.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",NTV
+http://103.205.133.21/hls/ntv.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",RTV
+http://103.205.133.21/hls/rtv.m3u8
+#EXTINF:0 tvg-logo=" dcap ",SATV
+http://103.205.133.21/hls/satv.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Somoy TV
+http://103.205.133.21/hls/somoy.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" dcap ",Bangla Time
+
+#EXTINF:0 tvg-logo=" group-title=" dcap ",Dhoom Music
+http://103.205.133.21/hls/dhoommusic.m3u8
+#EXTINF:-1 tvg-logo=" "group-title=" dcap ",Peace TV Bangla
+http://103.205.133.21/hls/peacetv.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Ruposhi Bangla
+http://103.205.133.21/hls/ruposhibangla.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Sangeet Bangla
+http://103.205.133.21/hls/sangeetbangla.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Sony Aath
+http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",And Picture
+http://103.205.133.21/hls/andpicture.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",And TV
+http://103.205.133.21/hls/andtv.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Colors
+http://103.205.133.21/hls/chc.m3u8
+#EXTINF:0 tvg-logo=" group-title=" dcap ",Sony
+http://103.205.133.21/hls/chs.m3u8
+#EXTINF:0 tvg-logo=" " group-title=" dcap ",Star Plus
+http://103.205.133.21/hls/chsp.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" dcap ",Sony Ten 1
+http://103.205.133.21/hls/ten1.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" dcap ",Sony Ten 3
+http://103.205.133.21/hls/ten3.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" dcap ",Star Sports Select 2 HD
+http://103.205.133.21/hls/chss2.m3u8
